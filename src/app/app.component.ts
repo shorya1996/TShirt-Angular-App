@@ -102,7 +102,6 @@ import {
   return [
   
   {
-  
   "tshirtId":
   1,
   
@@ -114,10 +113,10 @@ import {
   "description":"Men Navy Printed Round Neck T-shirt ",
   
   "frontImageUrl":
-  "assets/images/T1Front.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T1Front.jpg?raw=true",
   
   "backImageUrl":
-  "assets/images/T1Back.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T1Back.jpg?raw=true",
   
   "inStock":
   30,
@@ -149,10 +148,10 @@ import {
   "description":"Men Black Printed Round Neck T-shirt ",
   
   "frontImageUrl":
-  "assets/images/T2Front.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T2Front.jpg?raw=true",
   
   "backImageUrl":
-  "assets/images/T2Back.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T2Back.jpg?raw=true",
   
   "inStock":
   27,
@@ -184,10 +183,10 @@ import {
   "description":"Men White & Black Colourblocked Hooded T-shirt",
   
   "frontImageUrl":
-  "assets/images/T3Front.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T3Front.jpg?raw=true",
   
   "backImageUrl":
-  "assets/images/T3Back.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T3Back.jpg?raw=true",
   
   "inStock":
   40,
@@ -218,10 +217,10 @@ import {
   "description":"Men Teal Blue Solid Polo T-shirt ",
   
   "frontImageUrl":
-  "assets/images/T4Front.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T4Front.jpg?raw=true",
   
   "backImageUrl":
-  "assets/images/T4Back.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T4Back.jpg?raw=true",
   
   "inStock":
   20,
@@ -252,10 +251,10 @@ import {
   "description":"Men White Printed Round Neck T-shirt",
   
   "frontImageUrl":
-  "assets/images/T5Front.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T4Front.jpg?raw=true",
   
   "backImageUrl":
-  "assets/images/T5Back.jpg",
+  "https://github.com/shorya1996/TShirt-Angular-App/blob/master/src/assets/images/T4Back.jpg?raw=true",
   
   "inStock":26,
   
